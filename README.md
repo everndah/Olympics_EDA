@@ -6,8 +6,8 @@ One cannot ignore the importance of sports data analytics in this present age of
    * It should be noted that olympics are always held after every FOUR YEARS 
    * Due to the Covid-19 pandemic, the Tokyo 2020 Olympics games that were to be held last year(2020) were moved to this year.
 
-* The source of this data is Kaggle and to get the Csv file for this data Click Here
-* From this data set, we are going to limit our analyses to a few areas and look at olympics Data form when it was first held in 1896 to 2016.
+The source of this data is Kaggle and to get the Csv file for this data Click Here
+From this data set, we are going to limit our analyses to a few areas and look at olympics Data form when it was first held in 1896 to 2016.
 
-            See Data Analysis and Visualization section for areas that we will analyse
+            
 
