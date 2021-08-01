@@ -9,5 +9,8 @@ One cannot ignore the importance of sports data analytics in this present age of
 The source of this data is Kaggle and to get the Csv file for this data Click Here
 From this data set, we are going to limit our analyses to a few areas and look at olympics Data form when it was first held in 1896 to 2016.
 
+
+Mail : everndah@gmail.com
+LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/evanslango/)
             
 
