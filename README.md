@@ -1,4 +1,4 @@
-# [1986-2016 Olympics Exploratory Data Analysis](https://github.com/everndah/Olympics_EDA/blob/main/olympic-history-athletes-and-results-analysis.ipynb)
+# [1986-2016 Olympics Exploratory Data Analysis](https://github.com/everndah/Olympics_EDA/blob/main/olympic-history-athletes-and-results-analysis%20(1).ipynb)
 This is a 1986-2016 Olympics data exploratory data analysis that asks questions about questions about the participation and performance , different nations, sports and events. 
 
 One cannot ignore the importance of sports data analytics in this present age of technology.For that reason, and with the 2020 Summer Olympics just around the corner, starting from July 23, 2021 this _1986-2016 Olympics Exploratory Data Analysis_ will be useful to prepare teams for upcoming olympics,for coaches,athletes who can use it to improve performance,for sports analytics departments and sports journalists.The analysis asks questions about questions about the participation and performance , different nations, sports and events.
