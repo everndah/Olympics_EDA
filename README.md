@@ -13,6 +13,7 @@ From this data set, we are going to limit our analyses to a few areas and look a
 
 # Contact
 Mail : everndah@gmail.com
+
 LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/evanslango/)
             
 
