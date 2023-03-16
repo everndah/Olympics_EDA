@@ -11,8 +11,5 @@ From this data set, we are going to limit our analyses to a few areas and look a
 
 ![US](https://user-images.githubusercontent.com/66929420/127783113-982d6d40-abfb-4686-9138-ec1c07d54257.png)  ![OLYM](https://user-images.githubusercontent.com/66929420/127783119-caae8491-567f-4a05-b1ea-165d7aed4a7a.png)
 
-# Contact
-Mail : everndah@gmail.com<br />
-LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/evanslango/)
-            
+
 
