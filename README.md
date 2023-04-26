@@ -7,7 +7,7 @@ In today's age of technology, the importance of sports data analytics cannot be 
 - It is important to note that the Olympics are held every four years.
 - As a result of the Covid-19 pandemic, the Tokyo 2020 Olympic Games, originally scheduled for last year (2020), have been postponed until this year.
 
-The data source for this information is Kaggle. To obtain the CSV file for this data, please refer to the Kaggle website. [Click Here](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
+The data source for this information is Kaggle. To obtain the CSV file for this data, please refer to the Kaggle website [Click Here](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).
 Based on this dataset, we will be restricting our analyses to a few areas and examining Olympic data starting from its inaugural event in 1896 up to 2016.
 
 ![US](https://user-images.githubusercontent.com/66929420/127783113-982d6d40-abfb-4686-9138-ec1c07d54257.png) ![OLYM](https://user-images.githubusercontent.com/66929420/127783119-caae8491-567f-4a05-b1ea-165d7aed4a7a.png)
